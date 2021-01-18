@@ -6,9 +6,8 @@ Site originally built on WordPress using a custom theme.
 
 Portfolio: https://millertchris.github.io/buckhead-mountain-grill/
 
-Live site: http://www.buckheadmountain.com/
-
+Live site: /
 
 ## Contributors
 
-* Lance Swan
+- Lance Swan
